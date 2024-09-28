@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="ej2"/>
 	<classpathentry kind="src" path="ej1sinbuffer"/>
 	<classpathentry kind="src" path="ej3"/>
+	<classpathentry kind="src" path="ej4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
